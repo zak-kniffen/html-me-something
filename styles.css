@@ -1,0 +1,19 @@
+html{
+    text-align:center;
+}
+p{
+    color: blue;
+    margin-left: 100px;
+    margin-right:100px;
+}
+#myParagraph{
+    color:red;
+}
+.paragraphs{
+    color:green;
+}
+img{
+    padding-left:20px;
+    padding-right:20px;
+}
+
